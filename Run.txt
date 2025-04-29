@@ -1,8 +1,8 @@
 Running the command: 
 
-g++ KochCurve.cpp -o KochCurve -lopengl32 -lfreeglut -lglu32
+g++ KochCurve.cpp -o KochCurve -lGL -lGLU -lglut
 ./KochCurve
 
 OR
 
-g++ tesy.cpp lgl lglu lglut 
+g++ test.cpp lglut lGLU lGL 
