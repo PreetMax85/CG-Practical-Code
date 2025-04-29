@@ -1,0 +1,8 @@
+Running the command: 
+
+g++ KochCurve.cpp -o KochCurve -lopengl32 -lfreeglut -lglu32
+./KochCurve
+
+OR
+
+g++ tesy.cpp lgl lglu lglut 
